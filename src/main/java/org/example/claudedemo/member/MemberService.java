@@ -1,12 +1,8 @@
-package org.example.claudedemo.service;
+package org.example.claudedemo.member;
 
 import lombok.RequiredArgsConstructor;
-import org.example.claudedemo.dto.MemberResponseDto;
-import org.example.claudedemo.entity.Member;
-import org.example.claudedemo.exception.BusinessException;
-import org.example.claudedemo.exception.ErrorCode;
-import org.example.claudedemo.repository.MemberRepository;
-import org.example.claudedemo.specification.MemberSpecification;
+import org.example.claudedemo.global.exception.BusinessException;
+import org.example.claudedemo.global.exception.ErrorCode;
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,6 +1,5 @@
-package org.example.claudedemo.specification;
+package org.example.claudedemo.member;
 
-import org.example.claudedemo.entity.Member;
 import org.springframework.data.jpa.domain.Specification;
 
 public class MemberSpecification {

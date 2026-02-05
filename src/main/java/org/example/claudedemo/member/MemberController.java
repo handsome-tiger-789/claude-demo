@@ -1,8 +1,6 @@
-package org.example.claudedemo.controller;
+package org.example.claudedemo.member;
 
 import lombok.RequiredArgsConstructor;
-import org.example.claudedemo.dto.MemberResponseDto;
-import org.example.claudedemo.service.MemberService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

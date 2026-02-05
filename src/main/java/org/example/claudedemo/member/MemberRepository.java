@@ -1,7 +1,5 @@
-package org.example.claudedemo.repository;
+package org.example.claudedemo.member;
 
-import org.example.claudedemo.dto.MemberResponseDto;
-import org.example.claudedemo.entity.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;

@@ -1,7 +1,6 @@
-package org.example.claudedemo.exception;
+package org.example.claudedemo.global.exception;
 
 import lombok.extern.slf4j.Slf4j;
-import org.example.claudedemo.dto.ErrorResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

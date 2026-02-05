@@ -1,8 +1,7 @@
-package org.example.claudedemo.dto;
+package org.example.claudedemo.global.exception;
 
 import lombok.Builder;
 import lombok.Getter;
-import org.example.claudedemo.exception.ErrorCode;
 
 import java.time.LocalDateTime;
 
