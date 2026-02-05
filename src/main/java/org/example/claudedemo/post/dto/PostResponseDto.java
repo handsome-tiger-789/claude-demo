@@ -1,8 +1,9 @@
-package org.example.claudedemo.post;
+package org.example.claudedemo.post.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import org.example.claudedemo.post.Post;
 
 import java.time.LocalDateTime;
 

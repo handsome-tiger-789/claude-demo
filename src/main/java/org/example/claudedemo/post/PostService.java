@@ -5,6 +5,8 @@ import org.example.claudedemo.global.exception.BusinessException;
 import org.example.claudedemo.global.exception.ErrorCode;
 import org.example.claudedemo.member.Member;
 import org.example.claudedemo.member.MemberRepository;
+import org.example.claudedemo.post.dto.PostCreateRequestDto;
+import org.example.claudedemo.post.dto.PostResponseDto;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

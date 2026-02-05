@@ -1,4 +1,4 @@
-package org.example.claudedemo.post;
+package org.example.claudedemo.post.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

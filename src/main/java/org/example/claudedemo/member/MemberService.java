@@ -3,6 +3,7 @@ package org.example.claudedemo.member;
 import lombok.RequiredArgsConstructor;
 import org.example.claudedemo.global.exception.BusinessException;
 import org.example.claudedemo.global.exception.ErrorCode;
+import org.example.claudedemo.member.dto.MemberResponseDto;
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

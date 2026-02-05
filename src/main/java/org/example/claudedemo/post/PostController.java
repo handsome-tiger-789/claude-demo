@@ -1,6 +1,8 @@
 package org.example.claudedemo.post;
 
 import lombok.RequiredArgsConstructor;
+import org.example.claudedemo.post.dto.PostCreateRequestDto;
+import org.example.claudedemo.post.dto.PostResponseDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

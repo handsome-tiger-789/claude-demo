@@ -1,4 +1,4 @@
-package org.example.claudedemo.member;
+package org.example.claudedemo.member.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
